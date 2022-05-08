@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lowSide72
-- 👀 I’m interested in Gmae programing, C#, Unity.
+- 👀 I’m interested in Game programing, C#, Unity.
 - 🌱 I’m currently learning C#, Unity, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
